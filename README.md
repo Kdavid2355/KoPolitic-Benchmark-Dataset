@@ -52,7 +52,7 @@ The dataset consists of 12,000 news articles. Articles were crawled and collecte
   <img width="999" alt="스크린샷 2023-10-17 오후 10 42 14" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/156f6789-3b9f-4e81-a15e-56b91cef4861">    
 </p>
 
-[Download Dataset](https://github.com/Kdavid2355)
+[Download Dataset](https://drive.google.com/drive/u/1/folders/1ru4mD3aHoFIc1w5r0xnEO27ntFEkZIUa)
 
 ## Citation 
 If this work can be useful for your research, please cite our paper:
