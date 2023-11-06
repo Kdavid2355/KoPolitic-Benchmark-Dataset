@@ -59,10 +59,16 @@ If this work can be useful for your research, please cite our paper:
 
 
 @misc{kim2023new,
+
       title={A New Korean Text Classification Benchmark for Recognizing the Political Intents in Online Newspapers}, 
+      
       author={Beomjune Kim and Eunsun Lee and Dongbin Na},
+      
       year={2023},
+      
       eprint={2311.01712},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.CL}
 }
