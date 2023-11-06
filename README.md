@@ -58,6 +58,7 @@ The dataset consists of 12,000 news articles. Articles were crawled and collecte
 If this work can be useful for your research, please cite our paper:
 
 @misc{kim2023new,
+
       title={A New Korean Text Classification Benchmark for Recognizing the Political Intents in Online Newspapers},       
       author={Beomjune Kim and Eunsun Lee and Dongbin Na},      
       year={2023},      
