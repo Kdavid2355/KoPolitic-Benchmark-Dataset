@@ -1,5 +1,5 @@
 # KoPolitic-Benchmark-Dataset
-## A New Korean Text Classification Benchmark for Recognizing the Politic Intents in Online Newspapers
+## [A New Korean Text Classification Benchmark for Recognizing the Politic Intents in Online Newspapers](https://arxiv.org/pdf/2311.01712.pdf)
 - This repository provides **KoPolitic Dataset** and PyTorch implementations for classification models<br>(**KoPolitic**, KoBigBird, KoBERT, KoELECTRA).
 
 ## Authors
