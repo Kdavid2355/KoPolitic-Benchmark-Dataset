@@ -24,16 +24,17 @@ To the best of our knowledge, our paper is the most large-scale Korean news data
 
 | Model       | SeqLen | Code       |
 |:------------------:|:-------:|------------|
-| KoBigBird   | 1024  | [link1](링크1_URL) |
-| KoBigBird   | 2048  | [link2](링크2_URL) |
-| KoBigBird   | 3072  | [link3](링크3_URL) |
-| KoPolitic   | 1024  | [link4](링크4_URL) |
-| KoPolitic   | 2048  | [link5](링크5_URL) |
-| KoPolitic (Ours)  | 3072  | [link6](링크6_URL) |
-| Kobert Single    | 512 | [link7](링크7_URL) |
-| Kobert Multi     | 512  | [link8](링크8_URL) |
-| KoElectra Single | 512 | [link9](링크9_URL) |
-| KoElectra Multi  | 512  | [link10](링크10_URL) |
+| KoBigBird          | 1024 | link1   |
+| KoBigBird          | 2048 | link2   |
+| KoBigBird          | 3072 | link3   |
+| KoPolitic          | 1024 | link4   |
+| KoPolitic          | 2048 | link5   |
+| KoPolitic (Ours)   | 3072 | link6   |
+| Kobert Single      | 512  | link7   |
+| Kobert Multi       | 512  | link8   |
+| KoElectra Single   | 512  | link9   |
+| KoElectra Multi    | 512  | link10  |
+
 
 ## Models Performance
 - The classification performance of trained model.
