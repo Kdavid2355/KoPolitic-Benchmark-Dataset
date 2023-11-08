@@ -16,7 +16,7 @@ To the best of our knowledge, our paper is the most large-scale Korean news data
 ## Model
 - The conceptual illustration of our model with input and output examples.
 
-![KakaoTalk_Photo_2023-10-17-22-12-14](https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/5101b14b-5cb3-4cbe-bc39-3cb3e6070c13)
+<img width="1101" alt="스크린샷 2023-10-17 오후 10 47 27" src="[<img width="1101" alt="스크린샷 2023-10-17 오후 10 47 27" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/f2271590-b07f-4262-889d-b72adc63e3b9](https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/blob/main/image/model_image.png">
 
 ## Source Codes
 
@@ -36,7 +36,7 @@ To the best of our knowledge, our paper is the most large-scale Korean news data
 ## Models Performance
 - The classification performance of trained model.
 
-<img width="1101" alt="스크린샷 2023-10-17 오후 10 47 27" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/f2271590-b07f-4262-889d-b72adc63e3b9">
+<img width="1101" alt="스크린샷 2023-10-17 오후 10 47 27" src="[https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/f2271590-b07f-4262-889d-b72adc63e3b9](https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/blob/main/image/model_performance.png)">
 
 
 ## Dataset
@@ -44,12 +44,12 @@ To the best of our knowledge, our paper is the most large-scale Korean news data
 The dataset consists of 12,000 news articles. Articles were crawled and collected from six leading newspapers in South Korea. This includes two newspapers classified as conservative, two as neutral, and two as liberal. Out of the 12,000 labeled articles, 5,000 of the dataset are labeled based on two criteria: the level of political orientation and the level of pro-government. The level of political orientation is rated on a 5-point scale, where a score closer to 1 indicates a liberal stance and a score closer to 5 indicates a conservative stance. The level of pro-government is rated on a 6-point scale, where 0 stands for ‘None', scores closer to 1 indicate support for the government, and scores closer to 5 indicate criticism of the government.
 
 <p align="center">
-  <img width="800" alt="이미지 설명" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/fb73ddcf-ef9b-4b79-bdb4-ae9e39debb3f">
+  <img width="800" alt="이미지 설명" src="[https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/fb73ddcf-ef9b-4b79-bdb4-ae9e39debb3f](https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/blob/main/image/criteria.png)">
 </p>
 
 
 <p align="center">
-  <img width="999" alt="스크린샷 2023-10-17 오후 10 42 14" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/156f6789-3b9f-4e81-a15e-56b91cef4861">    
+  <img width="999" alt="스크린샷 2023-10-17 오후 10 42 14" src="[https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/156f6789-3b9f-4e81-a15e-56b91cef4861](https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/blob/main/image/data_example.png)">    
 </p>
 
 [Download Dataset](https://drive.google.com/drive/u/1/folders/1ru4mD3aHoFIc1w5r0xnEO27ntFEkZIUa)
