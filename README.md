@@ -38,8 +38,9 @@ To the best of our knowledge, our paper is the most large-scale Korean news data
 ## Models Performance
 - The classification performance of trained model.
 
-<img width="892" alt="model_performance" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/0f9fb0e7-a7c3-4e9b-b6d4-9e767d35f1eb">
-
+<p align="center">
+    <img width="892" alt="model_performance" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/0f9fb0e7-a7c3-4e9b-b6d4-9e767d35f1eb">
+</p>
 
 ## Dataset
 
