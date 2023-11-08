@@ -16,7 +16,9 @@ To the best of our knowledge, our paper is the most large-scale Korean news data
 ## Model
 - The conceptual illustration of our model with input and output examples.
 
-<img width="1343" alt="model_image" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/5ce4e35f-7f60-4e60-b621-ef0c38cf1c2a">
+<p align="center">
+    <img width="1343" alt="model_image" src="https://github.com/Kdavid2355/KoPolitic-Benchmark-Dataset/assets/50067299/5ce4e35f-7f60-4e60-b621-ef0c38cf1c2a">
+</p>
 
 ## Source Codes
 
